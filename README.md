@@ -7,7 +7,7 @@
 
 # 👨‍💻  About Me
 
-I’m a **Mobile App Developer** based in Kochi, Kerala 🇮🇳.  
+I’m a **Software Engineer | Mobile App Developer** based in Kochi, Kerala 🇮🇳.  
 Skilled in **React Native**, **Flutter**, and **Node.js**, I enjoy building cross-platform mobile apps that solve real problems and scale well.
 
 ### 🚀 Featured Project – Jetto

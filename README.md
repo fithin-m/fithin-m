@@ -27,13 +27,6 @@ Built using Flutter (Frontend) and Node.js + PostgreSQL (Backend), now live on t
 
 ---
 
-### 💼 Resume & Projects
-
-📄 [**View My Resume**](https://github.com/fithin-m/fithin-m/blob/main/FithinResumee.pdf)  
-📁 [**My GitHub Projects**](https://github.com/fithin-m?tab=repositories)
-
----
-
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fithin-vijay-mv/)

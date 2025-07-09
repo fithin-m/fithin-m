@@ -1,6 +1,6 @@
 <!-- Centered Animation -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2d/3a/9f/2d3a9f6b0bfb4b42e2ac723c9829644f.gif" width="250" alt="Programming Animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNldGJlemxodWVyejh2dHdudWYxejBneHd6dDlxeTJmcWNtYTBwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="280" alt="Coding Animation" />
 </p>
 
 <h1 align="center">Fithin Vijay M V</h1>

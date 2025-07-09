@@ -31,5 +31,4 @@ Built using Flutter (Frontend) and Node.js + PostgreSQL (Backend), now live on t
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/fithin-vijay-mv/)
 - 📧 Email: [fithinfith@gmail.com](mailto:fithinfith@gmail.com)
-- 🧰 [GitHub](https://github.com/fithin-m)
 - 📱 +91 8157832715

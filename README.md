@@ -23,24 +23,20 @@ Currently pursuing MCA from CUSAT, and passionate about building user-friendly, 
 **Jetto** is a logistics and seller-management mobile app built with Flutter (frontend) and Node.js with PostgreSQL (backend).  
 It helps sellers manage orders, payments, and delivery schedules.
 
-- Play Store: [Download Jetto](https://play.google.com/store/apps/details?id=com.jetto.store)  
-- Source Code: [GitHub Repository](https://github.com/fithin-m/jetto)
-
----
+- Play Store: [Download Jetto](https://play.google.com/store/apps/details?id=com.jetto.store) 
 
 ## Tech Stack
 
 - Languages: Dart, TypeScript, Java, Python  
 - Frameworks: Flutter, React Native, Node.js, Express  
 - Databases: PostgreSQL, MySQL  
-- Tools: Docker, Firebase, Git, GitHub Actions, VS Code
+- Tools: Docker, Firebase, Git, VS Code
 
 ---
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/fithin-vijay-mv](https://www.linkedin.com/in/fithin-vijay-mv)  
-- GitHub: [github.com/fithin-m](https://github.com/fithin-m)  
 - Email: fithinfith@gmail.com  
 - Phone: +91 8157832715
 

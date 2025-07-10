@@ -18,7 +18,8 @@ I enjoy creating scalable backend systems with Node.js and PostgreSQL, and I'm p
 
 ## Featured Project – Jetto
 
-**Jetto** is a logistics and seller-management mobile app built with Flutter (frontend) and Node.js with PostgreSQL (backend).  
+**Jetto** is a logistics and seller-management mobile app built with Flutter (frontend) later changed to react native 
+and Node.js with PostgreSQL (backend).  
 It helps sellers manage orders, payments, and delivery schedules.
 
 ▶️ [Download Jetto from Play Store](https://play.google.com/store/apps/details?id=com.jetto.store)

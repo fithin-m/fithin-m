@@ -42,9 +42,6 @@
   <a href="mailto:fithinfith@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fithin-m" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p><strong>Phone:</strong> +91 8157832715</p>

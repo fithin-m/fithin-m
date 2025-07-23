@@ -5,7 +5,7 @@
 
 <h1 align="center">Fithin Vijay M V</h1>
 <p align="center"><strong>Software Engineer • Mobile App Developer</strong></p>
-# Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />

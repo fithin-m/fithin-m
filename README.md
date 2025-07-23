@@ -5,17 +5,6 @@
 
 <h1 align="center">Fithin Vijay M V</h1>
 <p align="center"><strong>Software Engineer • Mobile App Developer</strong></p>
-<p align="center">React Native | Flutter | Node.js | PostgreSQL</p>
-
----
-
-## About Me
-
-I am a mobile app developer from Kochi, Kerala, with hands-on experience in building cross-platform applications using React Native and Flutter.  
-I enjoy creating scalable backend systems with Node.js and PostgreSQL, and I'm passionate about building user-friendly, real-world solutions that make a difference.
-
----
-
 ## Tech Stack
 
 <p align="left">

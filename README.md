@@ -33,7 +33,7 @@
 </p>
 
 
-## Contact
+<p align="left" ><strong>Contact</strong></p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fithin-vijay-mv" target="_blank">

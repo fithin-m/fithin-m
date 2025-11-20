@@ -57,19 +57,3 @@
 
 ---
 
-### 🧩 Project Showcase
-
-- **Gods Own Treats** – E-commerce website  
-  🔗 https://www.godsowntreats.com/
-
-- **Locus8** – Corporate company website  
-  🔗 https://www.locus8.in/
-
-- **Jesiral Jazeerah** – Clothing brand website  
-  🔗 https://www.jesiraljazeerah.com/
-
-- **The Wind Vagamon** – Resort website  
-  🔗 http://thewindvagamon.in/
-
-
-

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Fithin Vijay M V</h1>
-<p align="center"><strong>Software Engineer • Mobile App Developer</strong></p>
+<p align="center"><strong>Software Development Engineer</strong></p>
 
 <p align="left" ><strong>Tech stack</strong></p>
 <p align="left">
